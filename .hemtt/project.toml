@@ -3,6 +3,7 @@ prefix = "synixe_factions"
 mainprefix = "s"
 
 lints.config.cfgpatches_duplicate_class = false
+convert_images = [".png", ".tga"]
 
 [lints.config.cfgpatches_scope]
 options.check_cfgpatches = false
